@@ -7,6 +7,12 @@ beat buy-and-hold. Honesty over hype — the app is designed to show you how fra
 
 Paper trading only. StratLab never places real trades or connects to a brokerage account.
 
+<img width="500" height="500" alt="Screenshot 2026-07-08 094228" src="https://github.com/user-attachments/assets/6866f6f0-cd3a-4063-b73e-8f207c1abff5" />
+<img width="500" height="500" alt="Screenshot 2026-07-08 094050" src="https://github.com/user-attachments/assets/386850ca-c2a6-4307-8f27-da4a7aeddac9" />
+<img width="400" height="500" alt="Screenshot 2026-07-08 094211" src="https://github.com/user-attachments/assets/cab0a8a4-1350-4a0f-8d2d-40a63d6f24e7" />
+
+
+
 ## What it does
 
 - **Build a bot** — pick a real stock, choose a strategy (moving-average, RSI, or a
